@@ -1,6 +1,6 @@
-# AI & Data Science Portfolio 🚀
+# AI & Data Engineer Portfolio 🚀
 
-Selamat datang di repositori portofolio saya! Repositori ini berisi kumpulan proyek di bidang *Data Science*, *Machine Learning*, dan *AI Engineering*, yang mendemonstrasikan kemampuan saya mulai dari eksplorasi data, pengembangan model prediktif, hingga implementasi sistem ke *production* (Deployment).
+Selamat datang di repositori portofolio saya! Repositori ini berisi kumpulan proyek di bidang *Data Engineer*, *Machine Learning*, dan *AI Engineering*, yang mendemonstrasikan kemampuan saya mulai dari eksplorasi data, pengembangan model prediktif, hingga implementasi sistem ke *production* (Deployment).
 
 ---
 
